@@ -1,0 +1,8 @@
+{
+  "name": "PizzaType",
+  "variables": [
+    "Margherita",
+    "Salami",
+    "Hawai"
+  ]
+}

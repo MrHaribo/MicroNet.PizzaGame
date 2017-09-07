@@ -1,0 +1,28 @@
+{
+  "name": "Pizza",
+  "variables": [
+    {
+      "name": "type",
+      "type": {
+        "enumType": "PizzaType",
+        "type": "ENUM"
+      }
+    },
+    {
+      "name": "price",
+      "type": {
+        "numberType": "FLOAT",
+        "type": "NUMBER"
+      }
+    },
+    {
+      "name": "ingredients",
+      "type": {
+        "entryType": {
+          "type": "STRING"
+        },
+        "type": "LIST"
+      }
+    }
+  ]
+}

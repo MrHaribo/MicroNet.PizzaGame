@@ -1,0 +1,11 @@
+{
+  "serviceName": "PizzaService",
+  "serviceUri": "mn://pizza",
+  "description": "",
+  "listeners": [
+    {
+      "listenerUri": "/order",
+      "description": ""
+    }
+  ]
+}
